@@ -3,10 +3,10 @@
 Relationship Between Female &amp; Male Employees - 
 [Tableau Public Dashboard](https://public.tableau.com/views/RelationshipBetweenFemaleandMaleEmployees/Chart1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-In this project, I created the database based on what I learned from the "MySQL for Data Analytics and Business Intelligence" course on Udemy. The lessons and techniques from the 365 Careers course were crucial in shaping how the database works.
+I learned SQL and database management through the "MySQL for Data Analytics and Business Intelligence" course on Udemy by 365 Careers. The course had structured lessons and four important tasks that helped shape my database project. I gained practical skills in creating, designing, and operating SQL databases using MySQL.
 
-The course provided a clear structure for using MySQL in data analytics and business intelligence. It included four detailed tasks that were key learning points for me. These tasks helped me understand database management and use, forming the basis for my database project.
+I used MySQL and Tableau to complete assignments, which improved my data analysis and visualization skills. I learned how to manage databases by inserting, updating, and deleting records, handling constraints, relating data tables, and using advanced SQL features like triggers, sequences, variables, and indexes.
 
-While working on these tasks, I used both MySQL and Tableau. This combination helped me complete the assignments successfully. By integrating these technologies, I improved my skills in data analysis and visualization, making my database implementation more effective.
+I wrote efficient queries, managed complex joins, and used aggregate functions to answer business questions. The hands-on practice helped me feel confident in querying databases and developing business intuition through big data tasks.
 
 (August 2023)
