@@ -1,4 +1,4 @@
-# Project1
+# Project 1 MySQL
 Relationship Between Female &amp; Male Employees 
 
 In this endeavor, the database implementation draws its foundation from the comprehensive insights furnished by the "MySQL for Data Analytics and Business Intelligence" course, accessible through the esteemed educational platform, Udemy. The knowledge and techniques gleaned from the 365 Careers course have been instrumental in shaping the database's structure and functionality.
