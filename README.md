@@ -1,6 +1,6 @@
 # Project 1 MySQL & Tableau 
 
-Relationship Between Female &amp; Male Employees 
+Relationship Between Female &amp; Male Employees - 
 [Tableau Public Dashboard](https://public.tableau.com/views/RelationshipBetweenFemaleandMaleEmployees/Chart1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 In this project, I created the database based on what I learned from the "MySQL for Data Analytics and Business Intelligence" course on Udemy. The lessons and techniques from the 365 Careers course were crucial in shaping how the database works.
