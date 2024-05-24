@@ -1,3 +1,8 @@
+-- Create an SQL stored procedure that will allow you to obtain the average 
+-- male and female salary per department within a certain salary range.
+-- Let this range be defined by two values the user can insert when calling the procedure.
+
+
 DROP PROCEDURE IF EXISTS filter_salary;
 
 DELIMITER $$
@@ -20,9 +25,3 @@ END$$
 DELIMITER ;
 
 CALL filter_salary(50000, 90000);
-
-
-
-
-
-
