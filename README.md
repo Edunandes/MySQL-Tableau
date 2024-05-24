@@ -1,7 +1,7 @@
 # Project 1 MySQL & Tableau 
 
 Relationship Between Female &amp; Male Employees - 
-[Tableau Public Dashboard][https://public.tableau.com/app/profile/eduardo.fernandes/viz/RelationshipBetweenFemaleandMaleEmployees/Dashboard1]
+[Tableau Public Dashboard] (https://public.tableau.com/app/profile/eduardo.fernandes/viz/RelationshipBetweenFemaleandMaleEmployees/Dashboard1)
 
 I learned SQL and database management through the "MySQL for Data Analytics and Business Intelligence" course on Udemy by 365 Careers. The course had structured lessons and four important tasks that helped shape my database project. I gained practical skills in creating, designing, and operating SQL databases using MySQL.
 
