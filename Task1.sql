@@ -1,3 +1,7 @@
+-- Create a visualization that provides a 
+-- breakdown between the male and female employees working 
+-- in the company each year, starting from 1990. 
+
 SELECT 
     YEAR(d.from_date) AS calendar_year,
     e.gender,    
